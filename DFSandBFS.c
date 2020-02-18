@@ -63,7 +63,7 @@ void main()
                         com++;
                     }
                 }
-                if(count==1)
+                if(com==1)
                     printf("Graph is Connected");
                 else
                     printf("\nGraph is not connected and the number of components: %d",com);
@@ -77,7 +77,7 @@ void main()
                         com++;
                     }
                 }
-                if(count==1)
+                if(com==1)
                     printf("Graph is Connected");
                 else
                     printf("\nGraph is not connected and the number of components: %d",com);
